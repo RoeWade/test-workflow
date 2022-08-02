@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: HelloWorkflow
-        run: echo hello
+        run: echo "hello,workflow"

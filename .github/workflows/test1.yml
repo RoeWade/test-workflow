@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: HelloWorkflow
-        run: echo "hello,workflow"
+        run: echo "hello,workflow 1234"
         
   release:
     runs-on: ubuntu-latest
